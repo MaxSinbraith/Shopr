@@ -22,6 +22,7 @@ var config = {
 			'node_modules/bootstrap/dist/css/bootstrap.min.css',
 			'node_modules/bootstrap/dist/bootstrap-theme.min.css',
 			'node_modules/toastr/build/toastr.css',
+      './css/Header.css'
 		],
 		fonts: [
 			'node_modules/bootstrap/dist/fonts/glyphicons-halflings-*',

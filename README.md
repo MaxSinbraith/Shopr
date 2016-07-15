@@ -25,15 +25,23 @@ An interactive shopping list app built with React, Node, and Express
 **Project Team**
 
 - Matt Evans
-```shell
-Matt  is a student at DSU  who needs to update the  setion with information
-about himself  and  maybe add a link or  2.
-```
+
+> Matt is a senior at DSU. Major: CIT with Software Development Emphasis.
+> See profile at [LinkedIn] (https://www.linkedin.com/in/matt-evans-413b3a69)
+
 - Doug Osborn    
 
 > Doug is a senior at DSU majoring in IT with a minor in Computer Programming. 
 > He is currently interning at Scientific Toolworks and working on a  C++ & Javascript
 > data visualization project.  Check out his profile at [LinkedIn](https://www.linkedin.com/in/opensimian).
+
+- William Chatwin
+
+> William Started at DSU one year ago majoring in Computer Science with a minor in Math.
+> He is fairly new to the field but after his first year and summer of Code School He is egar to learn more. 
+> It has been awesome experience so far.  
+> He has some personal projects he has worked on (http://silverrockstucco.com/). 
+> Also learning other languages on the side. LinkedIn: (https://www.linkedin.com/in/william-chatwin-150bb0118)
 
 
 
@@ -53,4 +61,6 @@ about himself  and  maybe add a link or  2.
 
 Open  browswer and point a page  at  `Http://localhost:8062/`
 
-
+http://pastebin.com/4Xr68T4f
+http://pastebin.com/uWVzYvPt
+http://pastebin.com/mVNinqzn

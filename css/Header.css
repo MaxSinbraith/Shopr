@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #0084B4;
+  border-color: #0084B4;
+  font-size: 22px;
+  color: #333;
+}
+
+.btn-primary {
+  background-color: #0084B4;
+}
+
+body {
+  background-color: #F5F8FA;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav>li>a { 
+  color: #ffffff;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+.navbar-header {
+}
+
+
+.navbar-nav {
+}
+
+.navbar-collapse {
+}

@@ -36,14 +36,19 @@ var ManageStorePage = React.createClass({
 			return;
 		}
 
-		ShoppingActionCreator.createStore(this.state.store);
+		var promise = ShoppingActionCreator.createStore(this.state.store);
+ 
 		toastr.success('Store saved!');
 
 		if(event.target.value === "save") {
 			browserHistory.push('/');
-		} else {
-			browserHistory.push('/shopping-list');
-		}
+		} else if (event.target.value === "create and view list") {
+      promise.then(function (store) {
+        browserHistory.push('/shopping-list/' + store._id);
+      })
+    } else {
+			browserHistory.push('/');
+    }
 	},
 
 	storeFormIsValid: function () {
