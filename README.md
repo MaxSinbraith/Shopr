@@ -30,11 +30,12 @@ An interactive shopping list app built with React, Node, and Express
 > Doug is a senior at DSU majoring in IT with a minor in Computer Programming. 
 > He is currently interning at Scientific Toolworks and working on a  C++ & Javascript
 > data visualization project.  Check out his profile at [LinkedIn](https://www.linkedin.com/in/opensimian).
+> He also maintains a [fork] (https://github.com/ZeltaDred/Shopr) of this project.
 
 - William Chatwin
 
 > William Started at DSU one year ago majoring in Computer Science with a minor in Math.
-> He is fairly new to the field but after his first year and summer of Code School He is egar to learn more. 
+> He is fairly new to the field but after his first year and summer of Code School He is eager to learn more. 
 > It has been awesome experience so far.  
 > He has some personal projects he has worked on (http://silverrockstucco.com/). 
 > Also learning other languages on the side. LinkedIn: (https://www.linkedin.com/in/william-chatwin-150bb0118)
