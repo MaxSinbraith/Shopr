@@ -86,7 +86,7 @@ var SectionList = React.createClass({
             <h3 style={{color: "#ffffff", marginTop: "0.6%"}}>
             {section.storeSection}
             <button className="btn btn-primary btn-xsm"
-              style={{marginRight: "4%"}}
+              style={{marginRight: "4%", marginLeft: "1%"}}
               onClick={this.deleteSection.bind(this, index)}>
 
               <span className="glyphicon glyphicon-trash" aria-hidden="true"></span>
