@@ -14,10 +14,6 @@ An interactive shopping list app built with React, Node, and Express
 > technologies including [React](http://facebook.github.io/react/), [Node](https://nodejs.org/),
 > [Express](https://expressjs.com/), [Gulp](https://http://gulpjs.com/), [MongoDB](https://http://gulpjs.com/), and more.
 
-**The work is being sponsored by:**
-
-- DSU 2016 Code School
-
 **Original Concept:**
 
 - Matt Evans
@@ -43,7 +39,7 @@ An interactive shopping list app built with React, Node, and Express
 > He has some personal projects he has worked on (http://silverrockstucco.com/). 
 > Also learning other languages on the side. LinkedIn: (https://www.linkedin.com/in/william-chatwin-150bb0118)
 
-
+- Jake Duckett
 
 ### Local Implementation
  
@@ -64,3 +60,9 @@ Open  browswer and point a page  at  `Http://localhost:8062/`
 http://pastebin.com/4Xr68T4f
 http://pastebin.com/uWVzYvPt
 http://pastebin.com/mVNinqzn
+
+
+**The work is being sponsored by:**
+
+- DSU 2016 Code School
+
